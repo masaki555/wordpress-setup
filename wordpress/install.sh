@@ -8,4 +8,4 @@ sudo chmod +x /usr/bin/docker-compose
 mkdir www_data
 mkdir db_data
 
-sudo docker-compose up -d
+sudo docker compose up -d
